@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GeekTrust": {
+      "commandName": "Project",
+      "commandLineArgs": "input1.txt\r\ninput2.txt",
+      "workingDirectory": "$(MSBuildProjectDirectory)/sample_input"
+    }
+  }
+}
